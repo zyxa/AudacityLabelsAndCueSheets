@@ -9,7 +9,7 @@ The command line parameters are just one or more label and/or Cue Sheet file nam
 If the command line is empty, the dialog box shows (multiple times, until Cancel button will be pressed).
 
 The tool doesn't show any extra messages in any cases - either conversion proceeded successfully or not.
-It doesn't ask and doesn't overwrite anything. If it is needed, the tool just renames old files by appending .yyyymmdd-hhmmss-zzz.bak
+It doesn't ask and doesn't overwrite anything. If it is needed, the tool just renames old files by appending ".yyyymmdd-hhmmss-zzz.bak"
 
 User can simultaneously select files in both formats. If the file has .cue extension, it will be processed as Cue Sheet, otherwise (any other extension) - as Audacity labels.
 
